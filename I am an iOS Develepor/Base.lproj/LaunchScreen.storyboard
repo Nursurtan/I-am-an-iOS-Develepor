@@ -15,16 +15,16 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="X - 1" translatesAutoresizingMaskIntoConstraints="NO" id="aD2-ew-dKO">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="X - 1-1" translatesAutoresizingMaskIntoConstraints="NO" id="aD2-ew-dKO">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="aD2-ew-dKO" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="2CO-5m-Im2"/>
+                            <constraint firstItem="aD2-ew-dKO" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailing" id="2CO-5m-Im2"/>
                             <constraint firstItem="aD2-ew-dKO" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="A2m-53-bCa"/>
-                            <constraint firstItem="aD2-ew-dKO" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="Yn8-na-igA"/>
+                            <constraint firstItem="aD2-ew-dKO" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="Yn8-na-igA"/>
                             <constraint firstAttribute="bottom" secondItem="aD2-ew-dKO" secondAttribute="bottom" id="gE1-II-XZv"/>
                         </constraints>
                     </view>
@@ -35,6 +35,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="X - 1" width="375" height="812"/>
+        <image name="X - 1-1" width="375" height="812"/>
     </resources>
 </document>
